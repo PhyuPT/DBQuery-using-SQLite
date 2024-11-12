@@ -1,1 +1,1 @@
-# DBQuery-using-SQLite
+# Database Query using SQLite
